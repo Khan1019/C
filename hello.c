@@ -1,7 +1,7 @@
-main() {
-  long i;
-  i=0;
-
-  printf("%d", s+1);
+#include<stdio.h>
+int main() {
+for(int i =0 ;i<5;++i)
+{printf("*");}
   return 0;
+  
 }
